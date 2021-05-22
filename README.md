@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vikramadit
-- 👀 I’m interested in Python , HTML & CSS and Django
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python , HTML & CSS and Swift
 - 💞️ I’m looking to collaborate on nothing
 - 
 
