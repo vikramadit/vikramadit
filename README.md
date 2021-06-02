@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikramadit
-- 👀 I’m interested in Python , HTML & CSS and Swift
+- 👀 I’m interested in Python , HTML & CSS and iOS
 - 💞️ I’m looking to collaborate on nothing
 - 
 
