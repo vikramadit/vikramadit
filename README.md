@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vikramadit
-- 👀 I’m interested in Python , HTML & CSS and iOS
-- 💞️ I’m looking to collaborate on nothing
-- 
+- 👀 I’m interested in Python , HTML & CSS, Swift, Flutter, Pytorch etc.
 
 <!---
 vikramadit/vikramadit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
